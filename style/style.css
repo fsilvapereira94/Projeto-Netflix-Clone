@@ -180,6 +180,10 @@ footer ul li{
     .button-one{
         width: 200px;
     }
+
+    .box-filme{
+        height: 15rem;
+    }
     
     footer ul{
         grid-template-columns: 1fr;
